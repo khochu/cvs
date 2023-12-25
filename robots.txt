@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeus-slot-demo.zenoh.io/sitemap.xml
